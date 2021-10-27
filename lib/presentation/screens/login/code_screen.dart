@@ -4,7 +4,6 @@ import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter_verification_code/flutter_verification_code.dart';
-import 'package:http/http.dart' as http;
 import 'package:hairdresser/presentation/screens/login/register_screen.dart';
 import 'package:hairdresser/data/models/Hairdresser.dart';
 import 'package:hairdresser/data/models/User.dart';
