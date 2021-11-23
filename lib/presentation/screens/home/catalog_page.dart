@@ -2,7 +2,7 @@ import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:hairdresser/presentation/screens/product/addProduct_page.dart';
 import 'package:hairdresser/data/json/home_page_json.dart';
-import 'package:hairdresser/data/models/Product.dart';
+import 'package:hairdresser/data/models/product.dart';
 class CatalogPage extends StatefulWidget {
   CatalogPage({Key? key}) : super(key: key);
   final dio = Dio();

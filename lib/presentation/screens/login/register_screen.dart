@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:hairdresser/data/models/Hairdresser.dart';
+import 'package:hairdresser/data/models/hairdresser.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 
 class RegisterPage extends StatefulWidget {

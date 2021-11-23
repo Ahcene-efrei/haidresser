@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter_verification_code/flutter_verification_code.dart';
 import 'package:hairdresser/presentation/screens/login/register_screen.dart';
-import 'package:hairdresser/data/models/Hairdresser.dart';
+import 'package:hairdresser/data/models/hairdresser.dart';
 import 'package:hairdresser/data/models/User.dart';
 import 'package:hairdresser/data/models/ApiResponse.dart';
 import 'package:shared_preferences/shared_preferences.dart';

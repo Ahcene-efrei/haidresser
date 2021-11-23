@@ -1,5 +1,5 @@
 import 'package:flutter_svg/svg.dart';
-import 'package:hairdresser/data/models/Hairdresser.dart';
+import 'package:hairdresser/data/models/hairdresser.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

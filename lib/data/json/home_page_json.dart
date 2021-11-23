@@ -1,5 +1,5 @@
 import 'package:hairdresser/data/models/Hairdresser.dart';
-import 'package:hairdresser/data/models/Product.dart';
+import 'package:hairdresser/data/models/product.dart';
 
 const List TypeOfLocation = ["A domicile", "En Salon"];
 const List peopleFeedback = [
@@ -49,9 +49,9 @@ List<Hairdresser> listOfHairdresser = [
 ];
 
 List<Product> products = [
-  Product(name: "coupe homme", price: 10.50),
-  Product(name: "coupe femme", price: 33.99),
-  Product(name: "coupe simple", price: 17.99),
+  // Product(name: "coupe homme", price: 10.50),
+  // Product(name: "coupe femme", price: 33.99),
+  // Product(name: "coupe simple", price: 17.99),
 ];
 const List exploreMenu = [
   {
